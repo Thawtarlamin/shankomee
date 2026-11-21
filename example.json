@@ -3,12 +3,12 @@
     {
       "name": "Singapore",
       "city": "Singapore",
-      "link": "vless://..."
+      "link": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYV1N1aFpBY1RqTHB4cUdEQzg4cHVS@165.154.232.36:12432/?outline=1"
     },
     {
-      "name": "Myanmar",
-      "city": "Myanmar",
-      "link": "vless://..."
+      "name": "Thailand",
+      "city": "Thailand",
+      "link": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYV1N1aFpBY1RqTHB4cUdEQzg4cHVS@165.154.232.36:12432/?outline=1"
     }
   ]
 }
