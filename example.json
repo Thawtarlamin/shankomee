@@ -1,0 +1,14 @@
+{
+  "servers": [
+    {
+      "name": "Singapore",
+      "city": "Singapore",
+      "link": "vless://..."
+    },
+    {
+      "name": "Myanmar",
+      "city": "Myanmar",
+      "link": "vless://..."
+    }
+  ]
+}
